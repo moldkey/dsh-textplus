@@ -1,0 +1,4 @@
+# 文本增强：diff lines
+- insert:
+    - id: dsh-textplus-diff-lines
+      name: "dsh-textplus-diff-lines"

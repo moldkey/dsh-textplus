@@ -1,0 +1,4 @@
+# 文本增强：mask email
+- insert:
+    - id: dsh-textplus-mask-email
+      name: "dsh-textplus-mask-email"

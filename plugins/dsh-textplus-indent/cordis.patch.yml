@@ -1,0 +1,4 @@
+# 文本增强：indent
+- insert:
+    - id: dsh-textplus-indent
+      name: "dsh-textplus-indent"

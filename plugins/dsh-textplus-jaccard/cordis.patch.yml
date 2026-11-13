@@ -1,0 +1,4 @@
+# 文本增强：jaccard
+- insert:
+    - id: dsh-textplus-jaccard
+      name: "dsh-textplus-jaccard"

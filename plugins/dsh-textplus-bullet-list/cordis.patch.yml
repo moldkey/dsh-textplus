@@ -1,0 +1,4 @@
+# 文本增强：bullet list
+- insert:
+    - id: dsh-textplus-bullet-list
+      name: "dsh-textplus-bullet-list"

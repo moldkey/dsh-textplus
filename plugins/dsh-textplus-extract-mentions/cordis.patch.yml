@@ -1,0 +1,4 @@
+# 文本增强：extract mentions
+- insert:
+    - id: dsh-textplus-extract-mentions
+      name: "dsh-textplus-extract-mentions"

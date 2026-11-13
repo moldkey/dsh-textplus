@@ -1,0 +1,4 @@
+# 文本增强：truncate
+- insert:
+    - id: dsh-textplus-truncate
+      name: "dsh-textplus-truncate"

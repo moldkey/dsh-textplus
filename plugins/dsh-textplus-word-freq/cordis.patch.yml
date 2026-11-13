@@ -1,0 +1,4 @@
+# 文本增强：word freq
+- insert:
+    - id: dsh-textplus-word-freq
+      name: "dsh-textplus-word-freq"

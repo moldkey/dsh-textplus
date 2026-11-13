@@ -1,0 +1,4 @@
+# 文本增强：strip markdown
+- insert:
+    - id: dsh-textplus-strip-markdown
+      name: "dsh-textplus-strip-markdown"

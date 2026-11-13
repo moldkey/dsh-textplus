@@ -1,0 +1,4 @@
+# 文本增强：levenshtein
+- insert:
+    - id: dsh-textplus-levenshtein
+      name: "dsh-textplus-levenshtein"

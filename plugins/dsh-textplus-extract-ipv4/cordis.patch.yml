@@ -1,0 +1,4 @@
+# 文本增强：extract ipv4
+- insert:
+    - id: dsh-textplus-extract-ipv4
+      name: "dsh-textplus-extract-ipv4"

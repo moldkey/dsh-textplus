@@ -1,0 +1,4 @@
+# 文本增强：diff words
+- insert:
+    - id: dsh-textplus-diff-words
+      name: "dsh-textplus-diff-words"

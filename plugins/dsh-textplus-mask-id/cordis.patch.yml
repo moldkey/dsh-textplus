@@ -1,0 +1,4 @@
+# 文本增强：mask id
+- insert:
+    - id: dsh-textplus-mask-id
+      name: "dsh-textplus-mask-id"

@@ -1,0 +1,4 @@
+# 文本增强：remove emoji
+- insert:
+    - id: dsh-textplus-remove-emoji
+      name: "dsh-textplus-remove-emoji"
